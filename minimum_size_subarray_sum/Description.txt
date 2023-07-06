@@ -9,4 +9,4 @@ Constraints:
     1 <= nums[i] <= 10^4
 
 Solution:
-I used a sliding window with two pointers to move across the list one index at a time, keeping a sum of the current window as an int.
+I used a sliding window with two pointers to move across the list one index at a time, keeping a sum of the current window as an int. Solution is O(n) time.
